@@ -6,17 +6,17 @@ import { Station } from "src/models/station.model";
  */
 export const stations: Station[] = [
   {
-    name: "Charming Christmas Radio",
+    name: "Kerst",
     stream: "https://kathy.torontocast.com:4650/stream",
     lastSongsPath: "https://kathy.torontocast.com:4650/played?type=json",
   },
   {
-    name: "Sinterklaasradio",
+    name: "Sint",
     stream: "https://cast1.torontocast.com:3910/stream",
-    lastSongsPath: "https://cast1.torontocast.com:3915/status-json.xsl",
+    lastSongsPath: "https://cast1.torontocast.com:3910/played.html?type=json",
   },
   {
-    name: "100% Summer",
+    name: "Summer",
     stream: "https://kathy.torontocast.com:3285/stream",
     lastSongsPath: "https://kathy.torontocast.com:2160/played.html?type=json",
   },
