@@ -17,7 +17,7 @@ export const stations: Station[] = [
   },
   {
     name: "100% Summer",
-    stream: "http://kathy.torontocast.com:3910/stream",
+    stream: "https://kathy.torontocast.com:3910/stream",
     lastSongsPath: "https://kathy.torontocast.com:3910/played?type=json",
   },
 ];
