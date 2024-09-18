@@ -13,7 +13,7 @@ export const stations: Station[] = [
   {
     name: "Sinterklaasradio",
     stream: "https://cast1.torontocast.com:3910/stream",
-    lastSongsPath: "https://kathy.torontocast.com:3910/played.html?type=json",
+    lastSongsPath: "https://cast1.torontocast.com:3915/status-json.xsl",
   },
   {
     name: "100% Summer",
