@@ -12,12 +12,12 @@ export const stations: Station[] = [
   },
   {
     name: "Sinterklaasradio",
-    stream: "https://cast1.torontocast.com:3285/stream",
-    lastSongsPath: "https://kathy.torontocast.com:4650/played?type=json",
+    stream: "https://cast1.torontocast.com:3910/stream",
+    lastSongsPath: "https://kathy.torontocast.com:3910/played.html?type=json",
   },
   {
     name: "100% Summer",
-    stream: "https://kathy.torontocast.com:3910/stream",
-    lastSongsPath: "https://kathy.torontocast.com:3910/played?type=json",
+    stream: "https://kathy.torontocast.com:3285/stream",
+    lastSongsPath: "https://kathy.torontocast.com:2160/played.html?type=json",
   },
 ];
